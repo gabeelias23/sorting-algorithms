@@ -12,6 +12,7 @@ The algorithms are tested using random, sorted, and reverse-sorted vectors with 
 # How to Compile 
 
 Compile the program using a C++ compiler: 
+
 g++ -std=c++17 sorting_algorithms.cpp -o sorting_algorithms
 
 # How to Run
