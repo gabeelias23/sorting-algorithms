@@ -19,7 +19,9 @@ g++ -std=c++17 sorting_algorithms.cpp -o sorting_algorithms
 Run the compiled program: 
 
 On Windows:
+
 sorting_algorithms.exe
 
 On Mac/Linux:
+
 ./sorting_algorithms
